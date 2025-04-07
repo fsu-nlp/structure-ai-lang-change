@@ -18,13 +18,17 @@ Scientific English has undergone rapid and unprecedented changes in recent years
 * Install required packages via pip
 
 ## Note on Code
-The following scripts were used from "Why Does ChatGPT "Delve" So Much? Exploring the Sources of Lexical Overrepresentation in Large Language Models" (not sure how to cite here)
+The following scripts were used from 
+```bibtex
+ @article{Anonymous2025, title={Why Does ChatGPT "Delve" So Much? Exploring the Sources of Lexical Overrepresentation in Large Language Models}, author={Juzek, Tom S. and Ward, Zina B.}, journal={Association for Computational Linguistics}, year={2025}
+ ```
+
 * /ai_write_abstracts.py, /brute_force_div.py, /download_dataset.py, /extract_abstracts.py,/process_PubMed_files.py ,/sample_human_abstracts.py, /extract_frequencies.py, /plot_word_freq.py, 
 ## Citation
 
 If you use this code or data in your research, please cite:
  ```bibtex
- @article{Anonymous2025, title={Why Does ChatGPT "Delve" So Much? Exploring the Sources of Lexical Overrepresentation in Large Language Models}, author={Anonymous}, journal={tbd}, year={2025}
+ @article{Galpin2025, title={Exploring the Structure of AI-Induced Language Change in Scientific English}, author={Galpin, Riley and Anderson, Bryce and Juzek, Tom S.}, journal={The Florida Artificial Intelligence Research Society}, year={2025}
  ```
 
 ## Licence
