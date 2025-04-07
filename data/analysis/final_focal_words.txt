@@ -1,0 +1,39 @@
+Overwhelm
+  HUMAN overwhelm_VERB	-49.16	2.45	1.25	True
+  AI overwhelm_VERB		-51.62	4.19	2.03	True
+Regard
+  HUMAN regard_NOUN	-42.08	58.25		33.73	True
+  AI regard_NOUN	-99.10	301.37	2.70	True
+Clearly
+  HUMAN clearly_ADV	-39.66	51.17	30.87	True
+  AI clearly_ADV	-97.31	50.23	1.35	True
+Offender
+  HUMAN offender_NOUN	-47.03	4.07	2.16	True
+  AI offender_NOUN		-89.25	12.56	1.35	True
+Declare
+  HUMAN declare_VERB	-45.34	15.08	8.24	True
+  AI declare_VERB		-83.87	12.56	2.03	True
+Formalism
+  HUMAN formalism_NOUN	-43.67	3.87	2.18	True
+  AI formalism_NOUN		-51.62	4.19	2.03	True
+Officially
+  HUMAN officially_ADV	-43.23	2.35	1.33	True
+  AI officially_ADV		-67.74	4.19	1.35	True
+Respect
+  Human respect_NOUN	-41.25	76.22	44.78	True
+  AI respect_NOUN		-81.86	66.97	12.15	True
+Postpone
+  HUMAN postpone_VERB	-39.71	4.27	2.57	True
+  AI postpone_VERB		-51.62	4.19	2.03	True
+Optimum
+  HUMAN optimum_ADJ	-39.43	28.99	17.56	True
+  AI optimum_ADJ	-83.87	25.11	4.05	True
+Order
+  HUMAN order_NOUN	-39.27		337.18		204.77	True
+  AI order_NOUN	-80.84	422.76	81.01	True
+Decoy
+  HUMAN decoy_NOUN	-37.83		2.72	1.69	True
+  AI decoy_NOUN		-19.36	4.19	3.38	True
+Haze
+  HUMAN haze_NOUN	-55.50	3.69	1.64	True
+  AI haze_NOUN	-35.49	4.19	2.70	True
