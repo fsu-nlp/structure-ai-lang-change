@@ -1,0 +1,33 @@
+align_VERB,(coordinate_VERB : inc by 4.04),(integrate_VERB : inc by 53.61),(synchronize_VERB : DEC by -2.2),(harmonize_VERB : inc by 84.83)
+advancement_NOUN,(improvement_NOUN : inc by 10.41),(development_NOUN : inc by 8.52),(progress_NOUN : inc by 3.29),(enhancement_NOUN : inc by 13.6)
+boast_VERB,(exhibit_VERB : inc by 77.67),(display_VERB : inc by 6.24),(showcase_VERB : inc by 515.0),(highlight_VERB : inc by 81.36),(underscore_VERB : inc by 775.57)
+boast_NOUN,(feature_NOUN : inc by 13.54),(highlight_NOUN : inc by 47.77),(distinction_NOUN : inc by 11.42),(merit_NOUN : DEC by -17.94),(excellence_NOUN : inc by 24.72)
+commendable_ADJ,(noteworthy_ADJ : inc by 156.38)
+comprehend_VERB,(understand_VERB : inc by 15.81),(grasp_VERB : inc by 3.2),(perceive_VERB : inc by 5.19),(appreciate_VERB : DEC by -13.48)
+crucial_ADJ,(key_ADJ : inc by 18.38),(critical_ADJ : inc by 18.95),(vital_ADJ : inc by 33.29),(essential_ADJ : inc by 22.33),(pivotal_ADJ : inc by 209.13)
+delve_VERB,(explore_VERB : inc by 50.76),(investigate_VERB : inc by 2.92),(examine_VERB : inc by 6.48),(research_VERB : inc by 7.01),(probe_VERB : DEC by -3.4)
+emphasize_VERB,
+garner_VERB,
+groundbreaking_ADJ,(innovative_ADJ : inc by 122.58),(original_ADJ : DEC by -6.72),(novel_ADJ : inc by 5.7)
+intricacy_NOUN,(complexity_NOUN : inc by 30.3),(complication_NOUN : inc by 9.28),(convolution_NOUN : inc by 72.69)
+intricate_ADJ,(complex_ADJ : inc by 15.63),(sophisticated_ADJ : inc by 8.17),(multifaceted_ADJ : inc by 196.7),(elaborate_ADJ : DEC by -15.98)
+invaluable_ADJ,(valuable_ADJ : inc by 122.28)
+meticulous_ADJ,(thorough_ADJ : inc by 83.06),(precise_ADJ : inc by 76.75),(vigilant_ADJ : inc by 125.54)
+meticulously_ADV,(carefully_ADV : DEC by -8.81),(rigorously_ADV : inc by 45.23),(precisely_ADV : inc by 14.78),(thoroughly_ADV : inc by 64.67),(comprehensively_ADV : inc by 121.37)
+notable_ADJ,(outstanding_ADJ : inc by 23.73),(distinguished_ADJ : DEC by -9.95),(noteworthy_ADJ : inc by 156.38),(renowned_ADJ : inc by 216.1)
+noteworthy_ADJ,(notable_ADJ : inc by 267.8),(remarkable_ADJ : inc by 50.85),(outstanding_ADJ : inc by 23.73),(distinguished_ADJ : DEC by -9.95)
+pivotal_ADJ,(crucial_ADJ : inc by 149.86),(key_ADJ : inc by 18.38),(critical_ADJ : inc by 18.95),(vital_ADJ : inc by 33.29),(essential_ADJ : inc by 22.33)
+potential_ADJ,(possible_ADJ : DEC by -26.36),(probable_ADJ : DEC by -10.98),(feasible_ADJ : DEC by -6.97),(theoretical_ADJ : inc by 17.58),(achievable_ADJ : DEC by -9.84)
+potential_NOUN,(possibility_NOUN : DEC by -19.07),(prospect_NOUN : inc by 63.28),(capability_NOUN : inc by 58.52),(likelihood_NOUN : inc by 20.05),(probability_NOUN : DEC by -0.73)
+realm_NOUN,(domain_NOUN : inc by 11.12),(field_NOUN : DEC by -1.98),(discipline_NOUN : DEC by -0.02),(sphere_NOUN : DEC by -27.48),(territory_NOUN : DEC by -16.53)
+showcase_NOUN,(exhibit_NOUN : inc by 65.34),(presentation_NOUN : DEC by -4.92),(display_NOUN : DEC by -8.01),(demonstration_NOUN : DEC by -18.71),(forum_NOUN : DEC by -13.77)
+showcase_VERB,(demonstrate_VERB : inc by 21.58),(illustrate_VERB : DEC by -12.91),(reveal_VERB : inc by 30.38),(exhibit_VERB : inc by 77.67),(present_VERB : DEC by -5.86)
+significant_ADJ,(substantial_ADJ : inc by 54.91),(important_ADJ : DEC by -22.57),(notable_ADJ : inc by 267.8),(noteworthy_ADJ : inc by 156.38)
+strategically_ADV,(deliberately_ADV : DEC by -12.07),(purposefully_ADV : inc by 25.22)
+surpass_VERB,(exceed_VERB : inc by 35.29),(transcend_VERB : inc by 96.72),(outperform_VERB : inc by 105.51)
+underscore_VERB,(emphasize_VERB : inc by 184.14),(reinforce_VERB : inc by 4.12),(highlight_VERB : inc by 81.36),(stress_VERB : DEC by -2.21),(accentuate_VERB : inc by 48.95)
+underscore_NOUN,(emphasis_NOUN : inc by 1.6),(highlight_NOUN : inc by 47.77),(stress_NOUN : inc by 7.43),(importance_NOUN : inc by 30.63),(significance_NOUN : inc by 38.2)
+garnered_ADJ,
+emphasizing_AJD,
+comprehending_ADJ,
+important_ADJ,(significant_ADJ : inc by 28.86),(crucial_ADJ : inc by 149.86),(pivotal_ADJ : inc by 209.13),(noteworthy_ADJ : inc by 156.38),(substantial_ADJ : inc by 54.91)
