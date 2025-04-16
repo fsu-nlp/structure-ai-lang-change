@@ -1,6 +1,6 @@
 # Exploring the Structure of AI-Induced Language Change in Scientific English
 
-This repository contains the code and data of the paper "Exploring the Structure of AI-Induced Language Change in Scientific English".
+This repository contains the code and data of the paper "Exploring the Structure of AI-Induced Language Change in Scientific English."
 
 ## Abstract
 
@@ -8,8 +8,8 @@ Scientific English has undergone rapid and unprecedented changes in recent years
 
 ## Repository Contents
 
-* data: This repository contains sample data, as the full data is too large and needs to be built locally with the code.
-* code: Python scripts are used for the extraction of focal words (brute_force_div.py and process_PubMed_files.py in /get_human_data/)and generating AI abstracts (in /generate_ai_data/). Plots can be generated with the code in /plots/. 
+* Data: This repository contains sample data, as the full data is too large and needs to be built locally with the code.
+* Code: Python scripts are used for the extraction of focal words (brute_force_div.py and process_PubMed_files.py in /get_human_data/)and generating AI abstracts (in /generate_ai_data/). Plots can be generated with the code in /plots/. 
 
 
 ## Requirements and Running the Code
