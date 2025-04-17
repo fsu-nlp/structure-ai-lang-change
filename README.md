@@ -28,12 +28,13 @@ The following scripts were used from
 
 If you use this code or data in your research, please cite:
  ```bibtex
- @article{Galpin2025, title={Exploring the Structure of AI-Induced Language Change in Scientific English}, author={Galpin, Riley and Anderson, Bryce and Juzek, Tom S.}, journal={The Florida Artificial Intelligence Research Society}, year={2025}
+ @inproceedings{galpin2025exploring, title={Exploring the Structure of AI-Induced Language Change in Scientific English}, author={Galpin, Riley and Anderson, Bryce and Juzek, Tom S.}, booktitle={The International FLAIRS Conference Proceedings}, volume={38}, year={2025}}
+
  ```
 
 ## Licence
 
-The licence of this project has yet to be determined.
+Exploring the Structure of AI-Induced Language Change in Scientific English © 2025 by Riley Galpin, Bryce Anderson, Tom S Juzek is licensed under [CC BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).
 
 
 ## Contact
