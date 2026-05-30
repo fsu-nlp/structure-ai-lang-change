@@ -47,3 +47,7 @@ Exploring the Structure of AI-Induced Language Change in Scientific English © 2
 ## Contact
 
 For any questions or issues, please contact the repo owner.
+
+## AI Assistance
+
+Repository polished with Claude Code.
