@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, a citation is appreciated (though not required; see the licence)."
+title: "structure-ai-lang-change: code and data for 'Exploring the Structure of AI-Induced Language Change' (FLAIRS-38)"
+type: software
+authors:
+  - family-names: "Galpin"
+    given-names: "Riley"
+  - family-names: "Anderson"
+    given-names: "Bryce"
+  - family-names: "Juzek"
+    given-names: "Tom S."
+    orcid: "https://orcid.org/0000-0002-3204-3879"
+repository-code: "https://github.com/fsu-nlp/structure-ai-lang-change"
+preferred-citation:
+  type: conference-paper
+  title: "Exploring the Structure of AI-Induced Language Change in Scientific English"
+  authors:
+    - family-names: "Galpin"
+      given-names: "Riley"
+    - family-names: "Anderson"
+      given-names: "Bryce"
+    - family-names: "Juzek"
+      given-names: "Tom S."
+      orcid: "https://orcid.org/0000-0002-3204-3879"
+  year: 2025
+  collection-title: "The International FLAIRS Conference Proceedings"
+  volume: 38
+  doi: "10.32473/flairs.38.1.138958"
