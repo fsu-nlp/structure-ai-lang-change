@@ -26,11 +26,18 @@ The following scripts were used from
 * /ai_write_abstracts.py, /brute_force_div.py, /download_dataset.py, /extract_abstracts.py,/process_PubMed_files.py ,/sample_human_abstracts.py, /extract_frequencies.py, /plot_word_freq.py, 
 ## Citation
 
-If you use this code or data in your research, please cite:
- ```bibtex
- @inproceedings{galpin2025exploring, title={Exploring the Structure of AI-Induced Language Change in Scientific English}, author={Galpin, Riley and Anderson, Bryce and Juzek, Tom S.}, booktitle={The International FLAIRS Conference Proceedings}, volume={38}, year={2025}}
+If you use this code or data, a citation is appreciated (though not required; see the licence).
 
- ```
+```bibtex
+@article{galpin-etal-2025-exploring,
+  title   = {Exploring the Structure of AI-Induced Language Change in Scientific English},
+  author  = {Galpin, Riley and Anderson, Bryce and Juzek, Tom S.},
+  journal = {The International FLAIRS Conference Proceedings},
+  volume  = {38},
+  year    = {2025},
+  doi     = {10.32473/flairs.38.1.138958}
+}
+```
 
 ## Licence
 
