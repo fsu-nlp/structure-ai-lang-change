@@ -41,7 +41,7 @@ If you use this code or data, a citation is appreciated (though not required; se
 
 ## Licence
 
-Exploring the Structure of AI-Induced Language Change in Scientific English © 2025 by Riley Galpin, Bryce Anderson, Tom S Juzek is licensed under CC BY-SA 4.0.
+Exploring the Structure of AI-Induced Language Change in Scientific English © 2025 by Riley Galpin, Bryce Anderson, Tom S Juzek is licensed under CC BY-SA 4.0. See [`LICENSE`](LICENSE) for the full text.
 
 
 ## Contact
